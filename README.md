@@ -4,6 +4,8 @@ This repo contains Kicad sources for a board to light up the Disk LED on keyboar
 
 It is useful to users having an internal HDD controller.
 
+![a500hddled board render](a500hddled.png "a500hddled")
+
 ## Design
 
 The circuit implements the same schematic as the original A500 FDD LED circuit.
